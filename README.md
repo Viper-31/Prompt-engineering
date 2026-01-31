@@ -26,5 +26,8 @@ It can only multiply what is already there. *Good and bad habits* are amplified
 
 ## References
 [YT vid that started this](https://www.youtube.com/watch?v=91B_v-wOaws)
+[Claude prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-4-best-practices)
+[Google prompt engineering guide](https://cloud.google.com/discover/what-is-prompt-engineering#types-of-prompts)
+
 
   
